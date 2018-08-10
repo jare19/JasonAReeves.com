@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on Jason Reeves</title>
+    <link>http://JasonAReeves.com/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Jason Reeves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://JasonAReeves.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portauthority</title>
+      <link>http://JasonAReeves.com/projects/contributions/portauthority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/projects/contributions/portauthority/</guid>
+      <description>Port Authority is a solution that I helped develop at Target. I was included in the development after it was 1&amp;frasl;2 way complete. I was able to enable scanning of images pulled from Docker Hub (exisiting functunality was to scan images from private repos), as well as create a drone.io plugin to enable pipeline scanning of a container in github enterprise. It was my first real world experience with Go and API development.</description>
+    </item>
+    
+  </channel>
+</rss>

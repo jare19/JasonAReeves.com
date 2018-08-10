@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jason Reeves</title>
+    <link>http://JasonAReeves.com/tags/</link>
+    <description>Recent content in Tags on Jason Reeves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 13:40:07 -0500</lastBuildDate>
+    
+	<atom:link href="http://JasonAReeves.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api</title>
+      <link>http://JasonAReeves.com/tags/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artifactory</title>
+      <link>http://JasonAReeves.com/tags/artifactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/artifactory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom</title>
+      <link>http://JasonAReeves.com/tags/atom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>http://JasonAReeves.com/tags/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cdn</title>
+      <link>http://JasonAReeves.com/tags/cdn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/cdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatops</title>
+      <link>http://JasonAReeves.com/tags/chatops/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/chatops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clair</title>
+      <link>http://JasonAReeves.com/tags/clair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/clair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cli</title>
+      <link>http://JasonAReeves.com/tags/cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Security</title>
+      <link>http://JasonAReeves.com/tags/cloud-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/cloud-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffeescript</title>
+      <link>http://JasonAReeves.com/tags/coffeescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/coffeescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://JasonAReeves.com/tags/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://JasonAReeves.com/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drone.io</title>
+      <link>http://JasonAReeves.com/tags/drone.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/drone.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastly</title>
+      <link>http://JasonAReeves.com/tags/fastly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/fastly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Enterprise</title>
+      <link>http://JasonAReeves.com/tags/github-enterprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/github-enterprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glide</title>
+      <link>http://JasonAReeves.com/tags/glide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/glide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://JasonAReeves.com/tags/go/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://JasonAReeves.com/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Platform</title>
+      <link>http://JasonAReeves.com/tags/google-cloud-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hipchat</title>
+      <link>http://JasonAReeves.com/tags/hipchat/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/hipchat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://JasonAReeves.com/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://JasonAReeves.com/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minikube</title>
+      <link>http://JasonAReeves.com/tags/minikube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/minikube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portauthority</title>
+      <link>http://JasonAReeves.com/tags/portauthority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/portauthority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>http://JasonAReeves.com/tags/rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://JasonAReeves.com/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>http://JasonAReeves.com/tags/slack/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tdd</title>
+      <link>http://JasonAReeves.com/tags/tdd/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waf</title>
+      <link>http://JasonAReeves.com/tags/waf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/tags/waf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

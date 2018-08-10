@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Jason Reeves</title>
+    <link>http://JasonAReeves.com/</link>
+    <description>Recent content in Home on Jason Reeves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 13:40:07 -0500</lastBuildDate>
+    
+	<atom:link href="http://JasonAReeves.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GO-Fastly updates</title>
+      <link>http://JasonAReeves.com/projects/contributions/go-fastly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/projects/contributions/go-fastly/</guid>
+      <description>Go Fastly is a Golang API client for interacting with most facets of the Fastly API.
+There was an API endpoint missing from the go-fastly API client, Event Logs. I added the event logs endpoint to the package as well as all the tests. I also noticed that the returned objects for the dictionary objects and items were not up to date so I updated those as well.</description>
+    </item>
+    
+    <item>
+      <title>Portauthority</title>
+      <link>http://JasonAReeves.com/projects/contributions/portauthority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/projects/contributions/portauthority/</guid>
+      <description>Port Authority is a solution that I helped develop at Target. I was included in the development after it was 1&amp;frasl;2 way complete. I was able to enable scanning of images pulled from Docker Hub (exisiting functunality was to scan images from private repos), as well as create a drone.io plugin to enable pipeline scanning of a container in github enterprise. It was my first real world experience with Go and API development.</description>
+    </item>
+    
+    <item>
+      <title>Atom-Hugo Fixes</title>
+      <link>http://JasonAReeves.com/projects/contributions/atom-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/projects/contributions/atom-hugo/</guid>
+      <description>The Atom plugin that allows users to launch a Hugo server with live refresh.
+ On every hugo server lanuch, three or four pages would open instead of the one. The hugo server would not shutdown on macOS when wanting to exit.  I took this oportunity to fix the issue, as well as learn CoffeeScript to do it.</description>
+    </item>
+    
+    <item>
+      <title>Chatnotify</title>
+      <link>http://JasonAReeves.com/projects/creations/chatnotify/</link>
+      <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
+      
+      <guid>http://JasonAReeves.com/projects/creations/chatnotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://JasonAReeves.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://JasonAReeves.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
