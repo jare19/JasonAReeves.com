@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bash on Jason Reeves</title>
-    <link>http://JasonAReeves.com/tags/bash/</link>
+    <link>https://jasonareeves.com/tags/bash/</link>
     <description>Recent content in Bash on Jason Reeves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://JasonAReeves.com/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonareeves.com/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atom-Hugo Fixes</title>
-      <link>http://JasonAReeves.com/projects/contributions/atom-hugo/</link>
+      <link>https://jasonareeves.com/projects/contributions/atom-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://JasonAReeves.com/projects/contributions/atom-hugo/</guid>
+      <guid>https://jasonareeves.com/projects/contributions/atom-hugo/</guid>
       <description>The Atom plugin that allows users to launch a Hugo server with live refresh.
  On every hugo server lanuch, three or four pages would open instead of the one. The hugo server would not shutdown on macOS when wanting to exit.  I took this oportunity to fix the issue, as well as learn CoffeeScript to do it.</description>
     </item>

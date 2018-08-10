@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slack on Jason Reeves</title>
-    <link>http://JasonAReeves.com/tags/slack/</link>
+    <link>https://jasonareeves.com/tags/slack/</link>
     <description>Recent content in Slack on Jason Reeves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jul 2018 13:40:07 -0500</lastBuildDate>
     
-	<atom:link href="http://JasonAReeves.com/tags/slack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonareeves.com/tags/slack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chatnotify</title>
-      <link>http://JasonAReeves.com/projects/creations/chatnotify/</link>
+      <link>https://jasonareeves.com/projects/creations/chatnotify/</link>
       <pubDate>Tue, 24 Jul 2018 13:40:07 -0500</pubDate>
       
-      <guid>http://JasonAReeves.com/projects/creations/chatnotify/</guid>
+      <guid>https://jasonareeves.com/projects/creations/chatnotify/</guid>
       <description></description>
     </item>
     

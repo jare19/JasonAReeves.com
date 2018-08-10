@@ -3,211 +3,211 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://JasonAReeves.com/projects/contributions/go-fastly/</loc>
+    <loc>https://jasonareeves.com/projects/contributions/go-fastly/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/creations/</loc>
+    <loc>https://jasonareeves.com/projects/creations/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/contributions/portauthority/</loc>
+    <loc>https://jasonareeves.com/projects/contributions/portauthority/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/contributions/atom-hugo/</loc>
+    <loc>https://jasonareeves.com/projects/contributions/atom-hugo/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/contributions/</loc>
+    <loc>https://jasonareeves.com/projects/contributions/</loc>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/creations/chatnotify/</loc>
+    <loc>https://jasonareeves.com/projects/creations/chatnotify/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/api/</loc>
+    <loc>https://jasonareeves.com/tags/api/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/artifactory/</loc>
+    <loc>https://jasonareeves.com/tags/artifactory/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/atom/</loc>
+    <loc>https://jasonareeves.com/tags/atom/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/bash/</loc>
+    <loc>https://jasonareeves.com/tags/bash/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/categories/</loc>
+    <loc>https://jasonareeves.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/cdn/</loc>
+    <loc>https://jasonareeves.com/tags/cdn/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/chatops/</loc>
+    <loc>https://jasonareeves.com/tags/chatops/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/clair/</loc>
+    <loc>https://jasonareeves.com/tags/clair/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/cli/</loc>
+    <loc>https://jasonareeves.com/tags/cli/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/cloud-security/</loc>
+    <loc>https://jasonareeves.com/tags/cloud-security/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/coffeescript/</loc>
+    <loc>https://jasonareeves.com/tags/coffeescript/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/containers/</loc>
+    <loc>https://jasonareeves.com/tags/containers/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/docker/</loc>
+    <loc>https://jasonareeves.com/tags/docker/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/drone.io/</loc>
+    <loc>https://jasonareeves.com/tags/drone.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/fastly/</loc>
+    <loc>https://jasonareeves.com/tags/fastly/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/github-enterprise/</loc>
+    <loc>https://jasonareeves.com/tags/github-enterprise/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/glide/</loc>
+    <loc>https://jasonareeves.com/tags/glide/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/go/</loc>
+    <loc>https://jasonareeves.com/tags/go/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/golang/</loc>
+    <loc>https://jasonareeves.com/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/google-cloud-platform/</loc>
+    <loc>https://jasonareeves.com/tags/google-cloud-platform/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/hipchat/</loc>
+    <loc>https://jasonareeves.com/tags/hipchat/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/</loc>
+    <loc>https://jasonareeves.com/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/hugo/</loc>
+    <loc>https://jasonareeves.com/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/kubernetes/</loc>
+    <loc>https://jasonareeves.com/tags/kubernetes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/minikube/</loc>
+    <loc>https://jasonareeves.com/tags/minikube/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/projects/</loc>
+    <loc>https://jasonareeves.com/projects/</loc>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/portauthority/</loc>
+    <loc>https://jasonareeves.com/tags/portauthority/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/rest/</loc>
+    <loc>https://jasonareeves.com/tags/rest/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/search/</loc>
+    <loc>https://jasonareeves.com/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/security/</loc>
+    <loc>https://jasonareeves.com/tags/security/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/slack/</loc>
+    <loc>https://jasonareeves.com/tags/slack/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/</loc>
+    <loc>https://jasonareeves.com/tags/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/tdd/</loc>
+    <loc>https://jasonareeves.com/tags/tdd/</loc>
     <lastmod>2018-07-24T13:40:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://JasonAReeves.com/tags/waf/</loc>
+    <loc>https://jasonareeves.com/tags/waf/</loc>
     <priority>0</priority>
   </url>
   
